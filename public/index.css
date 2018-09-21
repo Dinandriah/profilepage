@@ -1,0 +1,46 @@
+img {
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 0px 10px 25px black    
+}
+
+h1 {
+    font-family: fantasy;
+    text-align: center
+}
+h3 {
+    text-align: center
+}
+* {
+    box-sizing: border-box
+}
+.FavoriteVac {
+    border-style:solid;
+    border-radius: 10px;
+    box-shadow: 5px 10px black;
+    filter: drop-shadow(0px 5px 10px black)
+}
+.Hobbies {
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 5px 10px black;
+    filter: drop-shadow(0px 5px 10px black)
+}
+.Summary {
+    border-style: solid;
+    border-radius: 10px;
+    box-shadow: 5px 10px black;
+    filter: drop-shadow(5px 10px black);
+    filter: drop-shadow(0px 5px 10px black)
+}
+.SumText {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.HobText {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+.VacText {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
